@@ -1,0 +1,2 @@
+# NewProject
+Первое задание WHS
